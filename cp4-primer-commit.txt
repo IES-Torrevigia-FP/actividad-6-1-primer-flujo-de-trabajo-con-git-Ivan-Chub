@@ -1,0 +1,3 @@
+9e31874 (HEAD -> main) Añade archivo de notas inicial sobre Git
+
+Escribir mensajes de commit claros es vital porque el historial de tu proyecto es una herramienta de comunicación, no solo un registro de cambios. 

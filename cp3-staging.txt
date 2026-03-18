@@ -1,0 +1,14 @@
+En la rama main
+
+No hay commits todavía
+
+Cambios a ser confirmados:
+  (usa "git rm --cached <archivo>..." para sacar del área de stage)
+	nuevos archivos: notas-git.md
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que será confirmado)
+	cp2-estado-inicial.txt
+
+1) La diferencia principal radica en si Git está siguiendo el archivo y si lo has marcado para formar parte de tu próximo guardado.
+2) He utilizado el comando git add notas-git.md

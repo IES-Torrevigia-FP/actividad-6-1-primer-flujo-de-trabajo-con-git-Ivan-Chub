@@ -1,0 +1,5 @@
+039da10 (HEAD -> main) Completa conceptos básicos de flujo en Git
+9e31874 Añade archivo de notas inicial sobre Git
+
+1) Ahora tengo 2 commits.
+2) La diferencia es que el commit 039da10 contiene todo lo que tenía 9e31874 más los nuevos cambios.
